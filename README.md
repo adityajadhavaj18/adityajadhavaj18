@@ -21,12 +21,11 @@
 - 💬 Ask me about ML pipelines, model deployment, and project architecture
 - ⚡ Fun Fact: I use Bollywood analogies to explain machine learning 😄
 
----
-
-### 📞 Contact & Links
+### 📞 Contact Me
 
 <p align="center">
-  <a href="mailto:adi.jadhav1922@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail"></a>
+  <a href="mailto:adi.jadhav1922@gmail.com"><img src="https://img.shields.io/badge/Gmail-adi.jadhav1922@gmail.com-red?style=for-the-badge&logo=gmail"></a>
+  <a href="tel:+918767671014"><img src="https://img.shields.io/badge/Phone-%2B91--8767671014-blue?style=for-the-badge&logo=phone"></a>
   <a href="https://www.linkedin.com/in/adityajadhavaj18/"><img src="https://img.shields.io/badge/LinkedIn-Aditya%20Jadhav-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://github.com/adityajadhavaj18"><img src="https://img.shields.io/badge/GitHub-adityajadhavaj18-black?style=for-the-badge&logo=github"></a>
 </p>
